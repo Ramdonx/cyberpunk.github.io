@@ -47,7 +47,7 @@ body {
     left: 0;
     width: 1px;
     height: 100%;
-    background: rgba(255, 255, 255, .1);
+    background: #fff url("../img/bg-1.gif") repeat center left fixed;
     z-index: 4;
 }
 
