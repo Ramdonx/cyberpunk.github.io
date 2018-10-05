@@ -4,7 +4,7 @@
 
 :root {
     --accent: crimson;
-    --bg: background-image: url("../img/img1.jpg") repeat center left fixed;
+    --bg: #230247;
     --done: #37eb94;
     --undone: #ff1b91;
 }
