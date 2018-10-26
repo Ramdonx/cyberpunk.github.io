@@ -1,5 +1,9 @@
-# dawn
-A startpage called "dawn" (WIP)
+# Cyberpunk
+A startpage.
+
+Credits to the original creator
+https://github.com/0-l/dawn
+
 
 [**Live Preview**](https://0-l.github.io/dawn/?)
 
