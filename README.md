@@ -16,4 +16,4 @@ https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-wi
 - `s` open search dialog 
 
 ### Preview
-![preview](https://i.imgur.com/6ImuuEH.png)
+![preview](https://imgur.com/a/7j8pyAs)
