@@ -8,7 +8,7 @@ Slideshow source
 https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/
 
 
-[**Live Preview**](https://0-l.github.io/dawn/?)
+[**Live Preview**](https://ramdonx.github.io/cyberpunk.github.io/)
 
 ### Keybindings
 
@@ -16,4 +16,4 @@ https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-wi
 - `s` open search dialog 
 
 ### Preview
-![preview](https://i.imgur.com/6ImuuEH.png)
+![preview](https://i.imgur.com/VVWIuWy.jpg)
