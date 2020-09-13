@@ -391,7 +391,7 @@ body {
 
 #tabs .time span {
     font-weight: 400;
-    color: rgb(255, 255, 255);
+    color: grey;
 }
 
 #tabs .weather {
@@ -400,7 +400,7 @@ body {
 
 #tabs .weather p[temperature] {
     margin: 0 1em 0 1em;
-    color: rgb(255, 255, 255);
+    color: grey;
 }
 
 #tabs i {
@@ -415,7 +415,7 @@ body {
     right: 0;
     width: 70%;
     height: 100%;
-    background: rgba(7, 248, 248, 0); /*#098282;*/ /*Color background tablero de enlaces*/
+    background: rgb(9, 130, 130, 0.0); /*#098282;*/
     padding: 5%;
     flex-wrap: wrap;
 }
@@ -439,7 +439,7 @@ body {
 #panels .boards .links a:hover {
     transform: scale(1.2);
     box-shadow: 0 0 #2b2b2b, 0 0 0 rgba(0, 0, 0, .5), 0 -4px 5px rgba(0, 0, 0, .1);
-    color: #fff; /*Color de resalte de enlaces*/
+    color: #fff;
 }
 
 #panels ul::after {
@@ -468,13 +468,13 @@ body {
 }
 
 #panels .boards .links li:not(:last-child) {
-    box-shadow: 0 1px 0 rgba(255, 255, 255, .8); /* Color linea debajo de los enlaces */
+    box-shadow: 0 1px 0 rgba(255, 255, 255, .8);
     padding: 0 0 .5em 0;
     margin-bottom: 1.5em;
 }
 
 #panels .boards .links li h1 {
-    color: #fff; #383838; /*Color categoria de enlaces */
+    color: #fff; #383838;
     font-size: 22px;
     margin-bottom: .5em;
     font-weight: 700;
